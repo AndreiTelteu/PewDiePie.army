@@ -1,6 +1,8 @@
 # [PewDiePie.army](https://pewdiepie.army/)
 
-> PWA for the battle between PewDiePie and TSeries
+PWA for the battle between PewDiePie and TSeries
+
+Created with CodeSandbox [AndreiTelteu/PewDiePie.army](https://codesandbox.io/s/github/AndreiTelteu/PewDiePie.army)
 
 ## Build Setup
 
