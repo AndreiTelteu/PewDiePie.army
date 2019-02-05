@@ -1,10 +1,10 @@
-# test-project
+# [PewDiePie.army](https://pewdiepie.army/)
 
-> A Vue.js project
+> PWA for the battle between PewDiePie and TSeries
 
 ## Build Setup
 
-``` bash
+```bash
 # install dependencies
 npm install
 
